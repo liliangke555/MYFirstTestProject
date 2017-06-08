@@ -6,8 +6,7 @@
 //  Copyright © 2016年 kyExpress. All rights reserved.
 //
 
-#import "BaseViewController.h"
-#import "ForrecordMolde.h"
+#import <Foundation/Foundation.h>
 
 @interface OrderJDViewController : UIViewController
 
