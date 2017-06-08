@@ -9,8 +9,7 @@
 #import "BaseViewController.h"
 #import "ForrecordMolde.h"
 
-@interface OrderJDViewController : BaseViewController
+@interface OrderJDViewController : UIViewController
 
-@property (nonatomic,strong) ForrecordMolde *jdModel;
 
 @end
